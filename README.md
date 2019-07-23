@@ -1,0 +1,2 @@
+# mybatisGenerialQuery
+基于mybatis的通用查询模块
